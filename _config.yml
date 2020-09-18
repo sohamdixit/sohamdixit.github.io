@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -38,7 +38,7 @@ social_media:
   linkedin: sohamdixit
   # mastodon: your_username
   medium: soham.dixit
-  stackoverflow: sohamd
+  stackoverflow: 4519905
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
